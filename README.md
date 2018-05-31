@@ -1,6 +1,6 @@
 Setting up tensorflow on Ubuntu is pretty straight forward, however there are a couple of gotchas.
 
-There's a great (oficial) install guide here: https://www.tensorflow.org/install/install_linux
+There's a great (official) install guide here: https://www.tensorflow.org/install/install_linux
 
 I like native, so for Python 3.x the crib sheet is:
 sudo apt-get update
